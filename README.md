@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Kris Unnikannan
 - 👀 I’m interested in ... AWS, Creative solutions 😄
-- 🌱 I’m currently learning ...  A1 Infra/Integrations 
 - 💞️ I’m looking to collaborate on ... Improving Integrations and help streamline process. 
 - 📫 How to reach me ... slack!
 
